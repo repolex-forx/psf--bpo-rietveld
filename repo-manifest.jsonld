@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/bpo-rietveld/commit/636b94cf7326d6ee39eada8d114f2fa0c5e13173",
       "git:hexsha": "636b94cf7326d6ee39eada8d114f2fa0c5e13173",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T22:44:26.620569+00:00"
     }
   ]
 }
