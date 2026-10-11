@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/psf/bpo-rietveld/commit/636b94cf7326d6ee39eada8d114f2fa0c5e13173",
+  "@type": "git:Commit",
+  "git:hexsha": "636b94cf7326d6ee39eada8d114f2fa0c5e13173",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/psf/bpo-rietveld"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/636b94cf7326d6ee39eada8d114f2fa0c5e13173.nq.gz",
+      "repolex:graphFileSize": 18952
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 401687
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 677
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T22:41:10.806503+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
